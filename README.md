@@ -1,5 +1,16 @@
 # QuanTetrum
-QuanTetrum is an intriguing tile-matching game enhanced with unique features of Quantum physics: superposition, entanglement, and measurement.
+QuanTetrum is a Tetris-inspired game that uses 3 important concepts of Quantum physics: superposition, entanglement, and measurement.
+
+# How to run:
+
+Download and unzip and then run the index.html file.
+
+# Presenation video:
+https://youtu.be/DlKU3qC7mQc
+
+# Copyright: 
+
+This program is under MIT licence.
 
 # Rule:
 
