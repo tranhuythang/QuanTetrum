@@ -1,20 +1,16 @@
 # QuanTetrum
-QuanTetrum is a Tetris-inspired game that uses 3 important concepts of Quantum physics: superposition, entanglement, and measurement.
+QuanTetrum is a Tetris-inspired game that illustrates 3 important concepts of Quantum physics: superposition, entanglement, and measurement.
 
 # How to run:
+You can run the game directly on its [GitHub site](https://htmlpreview.github.io/?https://github.com/tranhuythang/QuanTetrum/blob/main/index.html)
 
-Download and unzip and then run the index.html file.
-
-# Presenation video:
-https://youtu.be/DlKU3qC7mQc
-
-# Copyright: 
-
-This program is under MIT licence.
+Or you can download the game's source code and then run the index.html file.
 
 # Rule:
 
-- Player is required to strategically move and rotate a tetromino, as well as transforming the state of individual blocks in that tetromino, as it descends on the board. Each tetromino carries 4 blocks. Each block is in one of the 3 states (―), or ( | ), or (＋) and can possibly be entangled (paired) with another block. You score points by placing at least 7 blocks of the same state (―) or ( | ) in a row to make that row deleted. Your goal is to score and delete as many rows as you can. The game will end when the blocks fill ups the board.
+- Player is suppose to strategically move and rotate falling tetrominos, as well as transforming the state of individual blocks in the  tetromino so that at least 7 blocks in a row have a same arrow direction for socring a row.  
+
+- Each tetromino carries 4 blocks. Each block is in one of the 3 states (―), or ( | ), or (＋) and can possibly be entangled (paired) with another block. You score points by placing at least 7 blocks of the same state (―) or ( | ) in a row to make that row deleted. Your goal is to delete as many rows as you can. The game will end when the blocks fill ups the board.
 
 - To move a descending tetromino, use the keyboard: left (LEFT), right (RIGHT), down (DOWN or SPACEBAR). To rotate a tetromino, use the UP key.
 
