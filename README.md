@@ -1,12 +1,15 @@
 # QuanTetrum
 QuanTetrum is a Tetris-inspired game that illustrates 3 important concepts of Quantum physics: superposition, entanglement, and measurement.
+
 (This game was made in the Quantum Game Hackathon 2021 of Quantum Artificial Intelligence Foundation (qaif.org))
+
+![Hackathon](/Hackathon2021_diploma_2.jpg)
 
 # How to run:
 You can run the game directly at [this link](https://htmlpreview.github.io/?https://github.com/tranhuythang/QuanTetrum/blob/main/index.html)
 
 Or you can download the game's source code and just run the index.html file.
-![Hackathon](/Hackathon2021_diploma_2.jpg)
+
 
 # Rule:
 
